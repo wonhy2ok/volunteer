@@ -48,7 +48,7 @@ router.post('/', function(req, res, next){
         service: 'gmail',
         auth: {
             user: 'cjswo7119@gmail.com',  //gmail 계정 아이디를 입력
-            pass: 'Clf1dlf9!'             //gmail 계정의 비밀번호를 입력
+            pass: '구글계정비밀번호'       //gmail 계정의 비밀번호를 입력
         }
     });
 
